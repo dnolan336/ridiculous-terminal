@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "sounds": true,
+  "visuals": true,
+  "typingSounds": false,
+  "unicode": true,
+  "comboWindowSeconds": 10,
+  "ccSounds": true
+}

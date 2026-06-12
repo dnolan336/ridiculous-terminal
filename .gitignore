@@ -1,0 +1,13 @@
+# Generated sound effects (recreated by install.ps1 / Generate-Assets.ps1)
+assets/*.wav
+
+# Settings backups created by the installer
+*.rcbak
+
+# Local runtime state lives in %LOCALAPPDATA%\RidiculousCoding, never in the repo
+state.json
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+.vs/
