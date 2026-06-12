@@ -43,6 +43,13 @@ cd ridiculous-terminal
 
 (Or download the ZIP, extract it anywhere, and run `.\install.ps1` from that folder.)
 
+> **"running scripts is disabled on this system"?** Windows blocks PowerShell
+> scripts by default. Fix it once (no admin needed), then re-run the installer:
+>
+> ```powershell
+> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+> ```
+
 Then open a **new** PowerShell window (or run `. $PROFILE`). Try `rt test`.
 
 The installer:
