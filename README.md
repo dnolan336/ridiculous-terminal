@@ -36,8 +36,8 @@ rising combo arpeggios).
 ## Install
 
 ```powershell
-git clone https://github.com/dnolan336/Ridiculous-Terminal-.git
-cd Ridiculous-Terminal-
+git clone https://github.com/dnolan336/ridiculous-terminal.git
+cd ridiculous-terminal
 .\install.ps1
 ```
 
